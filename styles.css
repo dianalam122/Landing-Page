@@ -1,0 +1,41 @@
+body {
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', arial;
+}
+
+.header {
+    background-color: #1f2937
+}
+
+.body1 {
+    background-color: white
+}
+
+.body2 {
+    background-color: #E5E7EB
+}
+
+footer {
+    background: linear-gradient(to right, #fffbd5, #b20a2c);
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1.5rem;
+}    
+p1, p2, p3 {
+    color: white
+}
+
+h2 {
+    color: black
+}
+
+img {
+    border: 2px solid black; 
+}
+
+
+
+
